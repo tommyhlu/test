@@ -1,3 +1,3 @@
-/* ver 6
+/* ver 7
  * main.c totally for demo only
  */
